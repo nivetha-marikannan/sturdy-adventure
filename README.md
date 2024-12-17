@@ -1,2 +1,2 @@
-# sturdy-adventure
-Weather data fetching 
+#WeatherDataFetching  
+To fetch an weather information using WeatherAPI
